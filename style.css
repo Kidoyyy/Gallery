@@ -5,10 +5,16 @@
     font-family: 'Poppins', sans-serif;
   }
   body{
-    background-color: black;
+    
+    margin: 0;
+    margin-top: 20px;
+    display: grid;
+    place-items: center;
+    place-content: center;
+    background: linear-gradient(#EEEDE7,#868B8E,#B9B7BD,#E7D2CC)
   }
   h3{
-      color: white;
+      color: black;
   }
   
   .container{
